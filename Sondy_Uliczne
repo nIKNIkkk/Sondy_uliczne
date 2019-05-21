@@ -1,0 +1,111 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf-8" />
+	<title>LISTA WYBORCZA NA 2291r.</title>
+	<meta name="description" content="Serwis prezentuje Sondaże Wyborcze na rok 2291. Sprawdź na kogo głosować!" />
+	<meta name="keywords" content="Partie z największym poparciem." />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	
+	<style>
+	#container
+	{
+		width: 1300px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	#logo
+	{
+		background-color: white;
+		color: black;
+		text-align: center;
+		padding: 18px;
+	}
+	#nav
+	{
+		float: left;
+		background-color: lightgray;
+		width: 260px;
+		min-height: 620px;
+		padding: 10px;
+	}
+	#content
+	{
+		float: left;
+		padding: 20px;
+		width: 640px;
+	}
+	#ad
+	{
+		float: left;
+		width: 320px;
+		min-height: 620px;
+		padding: 10px;
+		background-color: lightgray;
+	}
+	#footer
+	{
+		clear: both;
+		background-color: black;
+		color: white;
+		text-align: center;
+		padding: 20px;
+	}	
+	</style>
+
+</head>
+
+<body>
+
+	<div id="container">
+	
+		<div id="logo">
+			<h1>Sondaże Wyborcze - Partie na 2291r. </h1>
+		</div>
+	
+		<div id="nav">
+			<font size="6">PiS</font><br />
+			<font size="6">PP</font><br />
+			<font size="6">PN</font><br />
+			<font size="6">Jesień</font><br />
+			<font size="6">KaziK</font><br />
+			<a href="https://www.youtube.com/watch?v=EzBKOPBs6CY"><font size="2">RELACJA Z SONDAŻY</font></a><br />
+		</div>
+		
+		<div id="content">
+		
+		
+			PiS - Pieniądze i Stanowsika.<br />
+			    * Z naszych sondaży wynika że mogą liczyć na 1,2% głosów.<br />
+			 PP - Polska Polityka.<br />
+			    * Z naszych sondaży wynika że mogą liczyć na 22% głosów.<br />
+			 PN - Platforma Niemiecka.<br />
+			    * Z naszych sondaży wynika że mogą liczyć na 2% głosów.<br />
+		Jesień  - Partia zwolenników środowisk ABCD.<br />
+		        * Z naszych sondaży wynika że mogą liczyć na 4 głosów.<br />
+		 KaziK  - Partia zwolenników Kazimierza Sadłowskiego.<br />
+		        * Z naszych sondaży wynika że mogą liczyć na 34% głosów.<br />
+				
+				
+				*SONDAŻE ZOSTAŁY PRZEPROWADZONE PRAWIDŁOWO Z USTAWA O SONDAŻACH I GŁOSOWANIACH Z 2181r.*
+			</br>
+			<iframe width="600" height="355" src="https://www.youtube.com/embed/EzBKOPBs6CY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				
+			
+			
+			
+			
+		</div>
+		
+		<div id="ad">
+			<img src="rrr/reklama.jpg" />
+		</div>
+		
+		<div id="footer">
+			Sondaże Statystyczne KOKOSIK z.o.o &copy; Wszelkie prawa zastrzeżone*
+		</div>
+	
+	</div>
+
+</body>
+</html>
